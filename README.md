@@ -1,5 +1,4 @@
 # seminar2
-Init branch / main branch (branch 1)
+Branch for Door 4
 
-You have 3 doors, choose one of them 
-2 3 4
+Curiously, behind door 4 there are 3 more doors - door 1002, 1003, 1004. Choose one
