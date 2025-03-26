@@ -1,2 +1,2 @@
 # seminar2
-Written by: Ionut
+Written by: Ionut, Calin
