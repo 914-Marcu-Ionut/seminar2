@@ -1,5 +1,4 @@
 # seminar2
-Init branch / main branch (branch 1)
+branch 3003
 
-You have 3 doors, choose one of them 
-2 3 4
+this is the final branch! 
