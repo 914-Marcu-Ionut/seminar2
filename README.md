@@ -6,3 +6,5 @@ You choose the corridor.
 You go along it slowly, careful to not stumble.
 You approach the end and hear footsteps.
 Return(go to 3002) or advance(go to 3003)
+You choose 3003.
+You exit the cave.
