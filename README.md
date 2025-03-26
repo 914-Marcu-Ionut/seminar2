@@ -1,5 +1,4 @@
 # seminar2
-Init branch / main branch (branch 1)
+branch 3
 
-You have 3 doors, choose one of them 
-2 3 4
+Go to branch 3001 or to branch 3002
